@@ -28,4 +28,8 @@
 
 # Tenth Commit
 
+<<<<<<< HEAD
 # Eleventh Commit
+=======
+# Eleventh Commit from SAP Business Application Studio
+>>>>>>> branch 'main' of https://github.com/SyedBabaTajuddinHussaini/SAPUI5-Samples.git
