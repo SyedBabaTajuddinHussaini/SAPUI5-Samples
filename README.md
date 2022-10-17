@@ -29,16 +29,23 @@
 # Tenth Commit
 
 <<<<<<< HEAD
+
 # Eleventh Commit
+
 =======
+
 # Eleventh Commit from SAP Business Application Studio
+
 <<<<<<< HEAD
->>>>>>> branch 'main' of https://github.com/SyedBabaTajuddinHussaini/SAPUI5-Samples.git
-=======
+
+> > > > > > > # branch 'main' of https://github.com/SyedBabaTajuddinHussaini/SAPUI5-Samples.git
 
 # Twelth Commit from SAP BAS
 
 # Thirteenth Commit from Visual Studio Code
->>>>>>> branch 'main' of https://github.com/SyedBabaTajuddinHussaini/SAPUI5-Samples.git
+
+> > > > > > > branch 'main' of https://github.com/SyedBabaTajuddinHussaini/SAPUI5-Samples.git
 
 # This push is from SAP Web IDE personal edition
+
+# This commit is from VS Code
